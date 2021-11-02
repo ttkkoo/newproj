@@ -5,4 +5,5 @@ int main(){
     std::cout<<" edit from macbookpro"<<std::endl;
     std::cout<<" add another another line from macbookpro"<<std::endl;
     std::cout<<"new lines after applying the restriction rule correctly"<<std::endl;
+    std::cout<<" made some changes in branch2"<<std::endl;
 }
