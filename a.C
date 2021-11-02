@@ -7,4 +7,5 @@ int main(){
     std::cout<<"new lines after applying the restriction rule correctly"<<std::endl;
     std::cout<<" made some changes in branch2"<<std::endl;
     std::cout<<" made changes in branch2 from macbook"<<std::endl;
+    std::cout<<" change master in ubuntu"<<std::endl;
 }
