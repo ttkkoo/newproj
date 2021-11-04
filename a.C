@@ -8,4 +8,5 @@ int main(){
     std::cout<<" made some changes in branch2"<<std::endl;
     std::cout<<" made changes in branch2 from macbook"<<std::endl;
     std::cout<<" change master in ubuntu"<<std::endl;
+    std::cout<<" in branch3 (right now tracking branch2) want to track master"<<std::endl;
 }
